@@ -3,7 +3,7 @@ module mux_4to1 (
     input b,
     input c,
     input d,
-    input [1:0] sel
+    input [1:0] sel,
     output y
 );
 
